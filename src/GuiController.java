@@ -38,32 +38,32 @@ public class GuiController implements Board.BoardListener {
     private final int TILE_SIZE = 50; 
 
     private final String[] tileColors = {
-        "#FF6347", // A
-        "#FFA500", // B 
-        "#FFD700", // C 
-        "#90EE90", // D 
-        "#87CEEB", // E 
-        "#DDA0DD", // F 
-        "#FF69B4", // G 
-        "#F0E68C", // H 
-        "#00FFFF", // I 
-        "#FFB6C1", // J 
-        "#7FFFD4", // K 
-        "#B0E0E6", // L 
-        "#EE82EE", // M 
-        "#FFDAB9", // N 
-        "#E6E6FA", // O 
-        "#00FA9A", // P 
-        "#FFE4B5", // Q 
-        "#B8860B", // R 
-        "#FF7F50", // S 
-        "#C0C0C0", // T 
-        "#98FB98", // U 
-        "#AFEEEE", // V 
-        "#FFC0CB", // W 
-        "#F5DEB3", // X 
-        "#ADD8E6", // Y 
-        "#D3D3D3"  // Z 
+        "#f5583d", // A
+        "#fdad17", // B 
+        "#f8d409", // C 
+        "#7cee7c", // D 
+        "#6fb3ce", // E 
+        "#eeb1ee", // F 
+        "#d85e9b", // G 
+        "#f7eb7e", // H 
+        "#04ffff", // I 
+        "#ffadb9", // J 
+        "#71facc", // K 
+        "#b3e4eb", // L 
+        "#ee88ee", // M 
+        "#f8ceaa", // N 
+        "#e0e0f1", // O 
+        "#04f196", // P 
+        "#f5dbae", // Q 
+        "#c49111", // R 
+        "#f57d52", // S 
+        "#c4c0c0", // T 
+        "#91f391", // U 
+        "#9edada", // V 
+        "#dda0aa", // W 
+        "#eed4a4", // X 
+        "#94bbc9", // Y 
+        "#b8b5b5"  // Z 
     };
 
     @FXML
